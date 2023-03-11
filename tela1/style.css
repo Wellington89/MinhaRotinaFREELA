@@ -1,0 +1,18 @@
+.valorhora{
+    margin:60px  20px 20px 20px;
+}
+
+input{
+    height:30px;
+    font-size: 25px;
+}
+
+.btn-primary{
+background:red;
+color:white;
+font-size: 14px;
+}
+.balanco{
+    color: rgb(22, 42, 223) ;
+    text-align: center;
+}
